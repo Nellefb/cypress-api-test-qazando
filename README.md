@@ -95,13 +95,13 @@ Durante o desenvolvimento deste projeto foram praticados:
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/Nellefb/cypress-api-test.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd nome-do-projeto
+cd cypress-api-test
 ```
 
 ### 3. Instale as dependências
